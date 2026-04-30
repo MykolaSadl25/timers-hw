@@ -1,0 +1,11 @@
+.animation {
+  transition-property: transform;
+  transition-duration: .25s;
+  transition-timing-function: cubic-bezier(.075, .82, .165, 1);
+  transform: translateX(10px) translateY(-10px) rotate(360deg);
+}
+
+.btn {
+  display: none;
+}
+/*# sourceMappingURL=timers-hw.c92073ef.css.map */
